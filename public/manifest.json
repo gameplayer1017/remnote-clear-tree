@@ -1,0 +1,23 @@
+{
+  "manifestVersion": 1,
+  "id": "sanghyun-clear-tree",
+  "name": "Clear Tree",
+  "author": "Sanghyun",
+  "repoUrl": "https://github.com/gameplayer1017/remnote-clear-tree",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "theme": [],
+  "enableOnMobile": true,
+  "description": "Replace a Rem subtree in place with a horizontal bracket tree. Toggle back to the original list.",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "ReadCreateModify"
+    }
+  ],
+  "unlisted": true
+}

@@ -1,0 +1,2 @@
+/* Compatibility for older RemNote development-widget bundles. */
+.cti-actions { display: none !important; }
